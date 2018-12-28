@@ -1,4 +1,4 @@
-# The Logic of Java Programming
+# Java 编程的逻辑
 
 ## 简介
 
@@ -17,3 +17,13 @@
 安装 [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) 或者 [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) 插件后，就去[这里](https://userstyles.org/styles/167308/java)下载应用本脚本。然后就可以去[此链接](https://www.cnblogs.com/swiftma/p/5631311.html)开开心心地看老马的博客了。
 
 另：推荐同时使用[为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd)插件配合阅读。
+
+## 效果
+
+### 目录
+
+![](https://i.loli.net/2018/12/28/5c26475b75f91.png)
+
+### 正文
+
+![](https://i.loli.net/2018/12/28/5c26479ef2bd9.png)
