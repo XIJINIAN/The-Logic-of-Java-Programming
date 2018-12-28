@@ -2,13 +2,13 @@
 
 ## 简介
 
-私以为**《Java 编程的逻辑》**大概是中文世界中最好的可以深入理解 Java SE 的一本书，十分推荐购买。
+在深入理解 Java SE 方向，我认为《Java 编程的逻辑》是中文世界中最好的一本书，十分推荐购买。
 
 其作者“[老马说编程](https://home.cnblogs.com/u/swiftma/)”在他自己的博客上面连载了这本书在线版。此脚本旨在为你提供最纯粹的阅读体验。
 
 ## 准备
 
-使用本脚本之前，你需要安装类 Chrome 浏览器（FireFox 应该也没问题的，不过需要你自己探索相关的插件了）
+使用本脚本之前，你需要安装类 Chrome 浏览器（FireFox 应该也没问题的，不过需要你自己探索相关的插件了）。
 
 你还需安装 [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) 或者 [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) 插件，我推荐安装后者。
 
