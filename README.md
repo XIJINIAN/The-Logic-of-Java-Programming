@@ -8,10 +8,7 @@
 
 ## 准备
 
-使用本脚本之前，你需要安装 Chrome 浏览器或者 FireFox 浏览器。
-
-- 对于 Chrome 浏览器：你还需要安装 [Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe) 或者 [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) 插件，我推荐安装后者。
-- 对于 FireFox 浏览器：你还需要安装 [Stylish](https://addons.mozilla.org/zh-CN/firefox/addon/stylish/) 或者 [Stylus](https://addons.mozilla.org/zh-CN/firefox/addon/styl-us/) 插件，我推荐安装后者。
+使用本脚本之前，你需要安装 Chrome、FireFox 之类的现代浏览器。之后你还需要安装 [Stylish](https://github.com/stylish-userstyles/stylish) 或者 [Stylus](https://github.com/openstyles/stylus) 插件，我推荐安装后者。
 
 ## 使用
 
