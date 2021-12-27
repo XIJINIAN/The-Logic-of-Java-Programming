@@ -1,0 +1,117 @@
+@-moz-document url-prefix("http://www.cnblogs.com/swiftma/p/"), url-prefix("https://www.cnblogs.com/swiftma/p/") {
+.cnblogs_code :not([class*="icon"]):not(i):not(p):not(h1) {
+    font-family: Monaco, "Input Mono", "PT Mono", Consolas, Menlo, monospace !important;
+    font-size: 14px !important;
+}
+
+#header {
+    display: none;
+}
+
+#top_nav {
+    display: none;
+}
+
+#footer {
+    display: none;
+}
+
+#blog_post_info_block {
+    display: none;
+}
+
+.postDesc {
+    display: none;
+}
+
+.cnblogs_code_copy {
+    display: none;
+}
+
+.commentform {
+    display: none;
+}
+
+#sideBar {
+    width: 0px;
+    height: 0px;
+    padding: 0px;
+}
+
+#main {
+    width: 900px !important;
+    margin-top: 0px;
+    background-color: rgba(0, 0, 0, 0.0);
+    margin-bottom: 0px;
+}
+
+#mainContent {
+    margin-top: 0px;
+}
+
+#blog-comments-placeholder {
+    display: none;
+}
+
+#cnblogs_post_body > p:nth-child(1) > strong span[style*="color: rgba(0, 0, 255, 1)"] {
+    display: none;
+}
+
+img[src="https://images2017.cnblogs.com/blog/924211/201802/924211-20180201085836265-416315605.jpg"] {
+    display: none;
+}
+
+img[src="http://images2017.cnblogs.com/blog/924211/201802/924211-20180201085836265-416315605.jpg"] {
+    display: none;
+}
+
+img[src="https://images2015.cnblogs.com/blog/924211/201605/924211-20160507122741935-343359744.jpg"] {
+    display: none;
+}
+
+img[src="http://images2015.cnblogs.com/blog/924211/201605/924211-20160507122741935-343359744.jpg"] {
+    display: none;
+}
+
+img[src="https://images2017.cnblogs.com/blog/924211/201802/924211-20180202161054859-999804045.jpg"] {
+    display: none;
+}
+
+img[src="http://images2017.cnblogs.com/blog/924211/201802/924211-20180202161054859-999804045.jpg"] {
+    display: none;
+}
+
+img[src="https://img.blog.csdn.net/20160329204821167"] {
+    display: none;
+}
+
+img[src="http://img.blog.csdn.net/20160329204821167"] {
+    display: none;
+}
+}
+
+@-moz-document url-prefix("http://www.cnblogs.com/swiftma/p/5631311.html"), url-prefix("https://www.cnblogs.com/swiftma/p/5631311.html") {
+#cnblogs_post_body > p:nth-child(1) {
+    display: none;
+}
+
+#cnblogs_post_body > p:nth-child(2) {
+    display: none;
+}
+
+#cnblogs_post_body > p:nth-child(3) {
+    display: none;
+}
+
+#cnblogs_post_body > p:nth-child(4) {
+    display: none;
+}
+
+#cnblogs_post_body > p:nth-child(6) {
+    display: none;
+}
+
+#cnblogs_post_body > p:nth-last-child(-n+4) {
+    display: none;
+}
+}
